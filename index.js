@@ -1,6 +1,6 @@
 const DayFunctions = require('./dayFunctions')
 const MonthFunctions = require('./monthFunctions')
-const YearFunctions = require('./YearFunctions')
+const YearFunctions = require('./yearFunctions')
 
 class Month {
     constructor(date) {

@@ -1,7 +1,7 @@
 {
-    "name": "sgcconsole_test",
-    "version": "1.0.0",
-    "description": "",
+    "name": "sgcdate",
+    "version": "1.0.1",
+    "description": "sgcDate is a simple date library that returns fomatted Date() objects back based on requests written in plan English.",
     "main": "index.js",
     "scripts": {
         "deploy": "gh-pages -d build",
@@ -10,9 +10,7 @@
     },
     "author": "Andy Chadbourne",
     "license": "MIT",
-    "dependencies": {
-        "sgcconsole": "file:../sgcConsole"
-    },
+    "dependencies": {},
     "prettier": {
         "trailingComma": "none",
         "tabWidth": 4,
@@ -20,5 +18,18 @@
         "singleQuote": true,
         "printWidth": 300,
         "jsxSingleQuote": true
-    }
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/SGCMarketing/sgcDate.git"
+    },
+    "keywords": [
+        "sgcDate",
+        "Date()",
+        "dates"
+    ],
+    "bugs": {
+        "url": "https://github.com/SGCMarketing/sgcDate/issues"
+    },
+    "homepage": "https://github.com/SGCMarketing/sgcDate#readme"
 }
