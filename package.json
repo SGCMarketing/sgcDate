@@ -1,6 +1,6 @@
 {
     "name": "sgcdate",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "sgcDate is a simple date library that returns fomatted Date() objects back based on requests written in plan English.",
     "main": "index.js",
     "scripts": {
